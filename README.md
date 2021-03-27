@@ -1,4 +1,4 @@
-# todo_CLI
+# Todo CLI
 
 Description   : A CLI application to assist users in organizing their activities with capabilities such as add, view, check/uncheck list and delete.
 
