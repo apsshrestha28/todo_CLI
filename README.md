@@ -4,4 +4,4 @@ Description   : A CLI application to assist users in organizing their activities
 
 Technologies  : Designed using JavaScript, node.js
 
-Url           : https://www.loom.com/share/8e4e68bb28b04c43be37596f9fd37310
+Video link    : https://www.loom.com/share/8e4e68bb28b04c43be37596f9fd37310
